@@ -1,2 +1,3 @@
 ECHO is on.
 hi hello
+new test 
